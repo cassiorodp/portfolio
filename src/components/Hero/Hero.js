@@ -12,7 +12,7 @@ const Hero = () => (
         I'm Cássio Pereira
       </SectionTitle>
       <SectionText>
-        I'm a web development student. Interested in front-end development. Passionate about tools that allow you to create amazing things. <br/> Main skills: React.js, HTML, CSS, JavaScript.
+        I'm a web developer. Interested in front-end development. Passionate about tools that allow you to create amazing things. <br/> Main skills: React.js, HTML, CSS, JavaScript.
       </SectionText>
       <Button onClick={() => window.location.href = "mailto:cassiorodp@gmail.com"}>
         Learn More
